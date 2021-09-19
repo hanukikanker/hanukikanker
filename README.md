@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanukikanker
-- 👀 I’m interested in living
+- 👀 I’m interested in urban planning
 - 🌱 I’m currently learning to use Python for Data Analytics
-- 💞️ I’m looking to collaborate on life matter
 - 📫 How to reach me shaun.hoang@gmail.com
 
 <!---
